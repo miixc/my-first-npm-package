@@ -1,0 +1,24 @@
+{
+  "name": "@mcix/my-first-npm-package",
+  "version": "0.0.1",
+  "description": "my first npm package to publish to npm registry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miixc/my-first-npm-package.git"
+  },
+  "keywords": [
+    "package",
+    "npm",
+    "registry"
+  ],
+  "author": "Kaifeng Li <kaifeng416@gmail.com> (https://miixc.github.io/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miixc/my-first-npm-package/issues"
+  },
+  "homepage": "https://github.com/miixc/my-first-npm-package#readme"
+}
